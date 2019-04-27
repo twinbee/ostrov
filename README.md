@@ -7,9 +7,9 @@ http://www.svseeker.com/wp/sv-seeker-2/underwater-rovs/open-source-towed-sonar-r
 
 It will likely include, 
 
-Camera driver
-Sonar driver  (Lowrance StructureScan and SpotLight sonars)
-Sonar tracking algorithms
-Embedded operating system, consider buildroot
+* Camera driver
+* Sonar driver  (Lowrance StructureScan and SpotLight sonars)
+* Sonar tracking algorithms
+* Embedded operating system, consider buildroot
 
 
